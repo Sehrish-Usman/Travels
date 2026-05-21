@@ -58,9 +58,7 @@ const handleSearch = () => {
                 </button>
               </Link>
 
-              <button className='secondary-btn'>
-                Learn More
-              </button>
+             
 
             </div>
 
