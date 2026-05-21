@@ -3,14 +3,7 @@ import { NavLink } from 'react-router-dom'
 function Navbar() {
   return (
     <>
-      {/* TOP BAR */}
-      <div className='top-bar'>
-        <div className='top-left'>
-          <span>📞 +92 300 1234567</span>
-          <span>💬 WhatsApp: +92 300 9876543</span>
-        </div>
-        
-      </div>
+     
 
       {/* MOVING PLANE */}
       <div className='flying-plane'>✈</div>
